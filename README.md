@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey there! 👋
 
+My name's Jessica Li! I am currently pursuing a Bachelor's in Computer Science and Minor in Software Engineering at Western University
 <!--
 **Li-Jessica/Li-Jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
