@@ -1,6 +1,7 @@
 ### Hey there! 👋
 
-My name's Jessica Li! I am currently pursuing a Bachelor's in Computer Science and Minor in Software Engineering at Western University
+My name's Jessica Li! I am currently pursuing a Bachelor's in Computer Science and Minor in Software Engineering at Western University.
+I am also currently searching for a 8/12/16 month internship for 2022. 
 <!--
 **Li-Jessica/Li-Jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
