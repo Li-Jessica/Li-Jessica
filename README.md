@@ -1,7 +1,8 @@
-### Hey there! 👋
+### Hey there! 👋	:grinning:
 
 My name's Jess! I'm pursuing a Bachelor's in Computer Science and Minor in Software Engineering at Western University.
 I love learning and trying out new technologies, and I am always looking for opportunities to improve and challenge myself as a software developer! 
+
 Currently, I am on my internship as a Linux System Admin. My current goal this term is to continue expanding my knowledge and furthering my skills in front-end development. 
 
 <!--
