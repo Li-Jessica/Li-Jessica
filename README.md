@@ -1,4 +1,4 @@
-### Hey there! 👋	:grinning:
+### Hey there! 👋
 
 My name's Jess and I'm currently in my 4th year of pursuing a Bachelor's in Computer Science at Western University! 
 
