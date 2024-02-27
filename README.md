@@ -2,7 +2,7 @@
 
 My name's Jess and I'm currently in my 4th year of pursuing a Bachelor's in Computer Science at Western University! 
 
-I'm eagerly seeking new graduate opportunities to further enhance my skills and contribute to innovative projects. With almost 1.5 years of industry experience encompassing Linux administration, software engineering, and DevOps, I've cultivated a diverse skill set that combines technical prowess with effective problem-solving.
+I'm eagerly seeking new graduate opportunities to further enhance my skills and contribute to innovative projects. With almost 2 years of industry experience encompassing software engineering, DevOps, and Linux administration, I've cultivated a diverse skill set that combines technical prowess with effective problem-solving.
 
 I am truly passionate about learning and immersing myself in new technologies, constantly seeking opportunities to grow and push my boundaries as a software developer. I'm enthusiastic about channeling this drive into a dynamic team, fostering excellence and innovation in  the ever-evolving landscape of technology.
 
